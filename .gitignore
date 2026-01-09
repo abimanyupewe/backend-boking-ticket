@@ -29,6 +29,6 @@ go.work
 Thumbs.db
 
 # My Project Binaries
-main
-server
-app
+/main
+/server
+/app
